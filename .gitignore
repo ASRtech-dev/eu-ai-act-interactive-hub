@@ -1,0 +1,8 @@
+# Ignore local backups and scratch reference folders
+*.bak
+*.bak2
+*.canvas_bak
+animation/
+reference/
+.DS_Store
+Thumbs.db
